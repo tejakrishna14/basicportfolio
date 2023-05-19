@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+    background-color: whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body {
+    background-color: rgb(242, 152, 242);
+}
+.one {
+    color: yellow
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+.projects {
+    text-align: left;
+}
